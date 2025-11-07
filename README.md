@@ -1,6 +1,6 @@
 #  Vibe Commerce – Mock E-Com Cart
 
-> Full Stack Assignment Submission  
+  
 > Built with **React (Vite)** + **Node/Express** + **Fake Store API**
 
  Features:
